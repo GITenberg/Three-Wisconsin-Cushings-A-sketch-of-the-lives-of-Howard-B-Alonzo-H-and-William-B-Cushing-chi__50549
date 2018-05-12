@@ -1,10 +1,16 @@
 _repo: Three-Wisconsin-Cushings-A-sketch-of-the-lives-of-Howard-B-Alonzo-H-and-William-B-Cushing-chi__50549
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50549-h/images/cover.jpg
 creator:
   author:
     agent_name: Haight, Theron Wilber
     gutenberg_agent_id: '45970'
     url: http://www.gutenberg.org/2009/agents/45970
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50549#Three-Wisconsin-Cushings-A-sketch-of-the-lives-of-Howard-B-Alonzo-H-and-William-B-Cushing-chi_
 gutenberg_issued: '2015-11-25'
 gutenberg_type: Text
 identifiers:
